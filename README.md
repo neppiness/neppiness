@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thank you for visiting my github profile! I'm Jeonghyun Kim, a noob developer 👋
 
 <!--
 **neppiness/neppiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
