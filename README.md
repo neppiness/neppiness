@@ -1,4 +1,13 @@
-### Thank you for visiting my github profile! I'm Jeonghyun Kim, a noob developer 👋
+### Thank you for visiting my github profile! <br> I'm Jeonghyun Kim, a beginner developer 👋
+___
+#### My personal favorite open source project is OBS (Open Broadcaster Software)
+I love to use this program, so I'm going to contribute this proj. after I get the my skills improved.
+
+#### I'm now learning the stacks below:
+![HTML](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=HTML5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1C)
+![Node.js](https://img.shields.io/badge/-Node.js-026E00?style=flat-square&logo=node.js&logoColor=ffffff)
 
 <!--
 **neppiness/neppiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
