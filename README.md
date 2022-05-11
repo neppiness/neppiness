@@ -1,25 +1,34 @@
-### Thank you for visiting my github profile! <br> I'm Jeonghyun Kim, a beginner developer 👋
-___
-#### My personal favorite open source project is OBS (Open Broadcaster Software)
-I love to use this program, so I'm going to contribute this proj. after I get the my skills improved.
+# Thank you for visiting my github profile! <br> I'm Jeonghyun Kim, a beginner developer 👋
 
-#### I'm now learning the stacks below:
+## Works
+### Dwitter_server clone coding project (03.18.22. ~ now)
+* Imitation project of Twitter, back-end project
+* Build server based on node.js and express
+* Study the request-response protocols both server and client
+
+
+### Portfolio page clone coding (02.23.22. ~ 03.17.22.)
+* Front-end project based on HTML, CSS, and JavaScript
+* Create portfolio page and publish it through github
+
+### Maintenance of architectural eng. program (2019 ~ 2021)
+* Program to calculate the ult. capacity of a composite girder
+* Maintenance of calculation functions of program based on Python
+* Design additional function to calculate a special structural member
+
+<br>
+
+## Personal interest
+### Open-source project: Open Broadcaster Software (OBS)
+<p> I love to use this program, so I'm going to contribute this proj. after I get my skills improved. </p>
+
+<br>
+
+## I've studied the stacks below:
+![PYTHON](https://img.shields.io/badge/-python-376f9e?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1C)
 ![Node.js](https://img.shields.io/badge/-Node.js-026E00?style=flat-square&logo=node.js&logoColor=ffffff)
-
-<!--
-**neppiness/neppiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MySQL](https://img.shields.io/badge/-MySQL-1b4260?style=flat-square&logo=MySQL&logoColor=ffffff)
+![mongoDB](https://img.shields.io/badge/-mongoDB-2db46a?style=flat-square&logo=mongoDB&logoColor=ffffff)
