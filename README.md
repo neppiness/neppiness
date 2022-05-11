@@ -32,3 +32,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-026E00?style=flat-square&logo=node.js&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-1b4260?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-2db46a?style=flat-square&logo=mongoDB&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
