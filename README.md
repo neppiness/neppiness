@@ -6,7 +6,6 @@
 * Build server based on node.js and express
 * Study the request-response protocols both server and client
 
-
 ### Portfolio page clone coding (02.23.22. ~ 03.17.22.)
 * Front-end project based on HTML, CSS, and JavaScript
 * Create portfolio page and publish it through github
@@ -20,7 +19,7 @@
 
 ## Personal interest
 ### Open-source project: Open Broadcaster Software (OBS)
-<p> I love to use this program, so I'm going to contribute this proj. after I get my skills improved. </p>
+* I love to use this program, so I'm going to contribute this proj. after I get my skills improved.
 
 <br>
 
@@ -33,3 +32,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-1b4260?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-2db46a?style=flat-square&logo=mongoDB&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
+
+<br>
+
+## For more information
+I note 'Today I Learned (TIL)' in here
+You can also check my portfolio [here](https://neppiness.github.io/Portfolio/)
