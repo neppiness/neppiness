@@ -1,25 +1,29 @@
 # Thank you for visiting my github profile! <br> I'm Jeonghyun Kim, a beginner developer 👋
 
+#### Contact: neppiness@gmail.com
+
+<br>
+
 ## Works
 ### Dwitter_server clone coding project (03.18.22. ~ now)
-* Imitation project of Twitter, back-end project
-* Build server based on node.js and express
-* Study the request-response protocols both server and client
+- Imitation project of Twitter, back-end project
+- Build server based on node.js and express
+- Study the request-response protocols both server and client
 
 ### Portfolio page clone coding (02.23.22. ~ 03.17.22.)
-* Front-end project based on HTML, CSS, and JavaScript
-* Create portfolio page and publish it through github
+- Front-end project based on HTML, CSS, and JavaScript
+- Create portfolio page and publish it through github
 
 ### Maintenance of architectural eng. program (2019 ~ 2021)
-* Program to calculate the ult. capacity of a composite girder
-* Maintenance of calculation functions of program based on Python
-* Design additional function to calculate a special structural member
+- Program to calculate the ult. capacity of a composite girder
+- Maintenance of calculation functions of program based on Python
+- Design additional function to calculate a special structural member
 
 <br>
 
 ## Personal interest
 ### Open-source project: Open Broadcaster Software (OBS)
-* I love to use this program, so I'm going to contribute this proj. after I get my skills improved.
+- I love to use this program, so I'm going to contribute this proj. after I get my skills improved.
 
 <br>
 
@@ -36,5 +40,5 @@
 <br>
 
 ## For more information
-I note 'Today I Learned (TIL)' in here
-You can also check my portfolio [here](https://neppiness.github.io/Portfolio/)
+- I note 'Today I Learned (TIL)' in [here](https://github.com/neppiness/TIL)
+- You can also check my portfolio [here](https://neppiness.github.io/Portfolio/)
