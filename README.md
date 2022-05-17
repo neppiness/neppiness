@@ -1,4 +1,4 @@
-# Thank you for visiting my github profile! <br> I'm Jeonghyun Kim, a beginner developer 👋
+# Thank you for visiting my github profile! <br> I'm Jeonghyun Kim 👋
 
 #### Contact: neppiness@gmail.com
 
