@@ -1,6 +1,6 @@
 # Thank you for visiting my github profile! <br> I'm Jeonghyun Kim 👋
 
-#### Contact: neppiness@gmail.com
+#### Contact: 0414kjh@naver.com
 
 <br>
 
