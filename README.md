@@ -5,7 +5,7 @@
 <br>
 
 ## Works
-### [Dwitter_server clone coding project (03.18.22. ~ now)](https://github.com/neppiness/Dwitter_server)
+### [Dwitter_server clone coding project (03.18.22. ~ 05.31.22.)](https://github.com/neppiness/Dwitter_server)
 - Imitation project of Twitter, back-end project
 - Build server based on node.js and express
 - Study the request-response protocols both server and client
