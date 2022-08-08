@@ -30,6 +30,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-1b4260?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-2db46a?style=flat-square&logo=mongoDB&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
+![C++](https://img.shields.io/badge/-c++-03589b?logo=c%2B%2B&style=flat-square)
 
 <br>
 
