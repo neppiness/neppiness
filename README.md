@@ -19,6 +19,8 @@
 - Maintenance of calculation functions of program based on Python
 - Design additional function to calculate a special structural member
 
+<br>
+
 ## Study
 ### [Problem solving (07.02.22. ~ now)](https://github.com/neppiness/TIL/tree/main/Problem%20Solving)
 - Based on C++ with STL
