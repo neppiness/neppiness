@@ -21,13 +21,6 @@
 
 <br>
 
-## Study
-### [Basic algorithm: problem solving (07.02.22. ~ 10.02.22.)](https://github.com/neppiness/TIL/tree/main/Problem%20Solving)
-- Based on C++ with STL
-- Reference: [BaaaaaaaarkingDog's Practical Algorithm Lecture](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-
-<br>
-
 ## I've studied the stacks below:
 ![PYTHON](https://img.shields.io/badge/-python-376f9e?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=HTML5&logoColor=ffffff)
@@ -42,6 +35,10 @@
 <br>
 
 ## Personal interests
+### [Problem solving](https://github.com/neppiness/TIL/tree/main/Problem%20Solving)
+- Based on C++ with STL
+- Studied [BaaaaaaaarkingDog's Practical Algorithm Lecture](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) (07.02.22. ~ 10.02.22.)
+
 ### Open-source project: Open Broadcaster Software (OBS)
 - I love to use this program, so I'm going to contribute this proj. after I get my skills improved.
 
