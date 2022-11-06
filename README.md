@@ -38,6 +38,7 @@
 ### [Problem solving](https://github.com/neppiness/TIL/tree/main/Problem%20Solving)
 - Based on C++ with STL
 - Studied [BaaaaaaaarkingDog's Practical Algorithm Lecture](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) (07.02.22. ~ 10.02.22.)
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=scsc3204)](https://solved.ac/scsc3204)
 
 ### Open-source project: Open Broadcaster Software (OBS)
 - I love to use this program, so I'm going to contribute this proj. after I get my skills improved.
