@@ -31,6 +31,7 @@
 ![mongoDB](https://img.shields.io/badge/-mongoDB-2db46a?style=flat-square&logo=mongoDB&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
 ![C++](https://img.shields.io/badge/-c++-03589b?logo=c%2B%2B&style=flat-square)
+![JAVA](https://img.shields.io/badge/-Java-000?&logo=Java&style=flat-square)
 
 <br>
 
