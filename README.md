@@ -21,7 +21,13 @@
 
 <br>
 
-## I've studied the stacks below:
+## Stacks I've studied
+### Main stacks
+![C++](https://img.shields.io/badge/-c++-03589b?logo=c%2B%2B&style=flat-square)
+![GIT](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
+![JAVA](https://img.shields.io/badge/-Java-007396?&logo=Java&style=flat-square)
+
+### Sub-stacks
 ![PYTHON](https://img.shields.io/badge/-python-376f9e?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=CSS3)
@@ -29,9 +35,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-026E00?style=flat-square&logo=node.js&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-1b4260?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-2db46a?style=flat-square&logo=mongoDB&logoColor=ffffff)
-![GIT](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
-![C++](https://img.shields.io/badge/-c++-03589b?logo=c%2B%2B&style=flat-square)
-![JAVA](https://img.shields.io/badge/-Java-007396?&logo=Java&style=flat-square)
 
 <br>
 
