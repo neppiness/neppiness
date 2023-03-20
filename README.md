@@ -51,4 +51,4 @@
 ## For more information
 - I note 'Today I Learned (TIL)' in [here](https://github.com/neppiness/TIL)
 - You can also check my portfolio [here](https://neppiness.github.io/Portfolio/)
-- Link for my [boj.kr](https://www.acmicpc.net/user/scsc3204) and [solved.ac](https://solved.ac/profile/scsc3204) profiles
+- Links for my profiles: [Baekjoon Online Judge](https://www.acmicpc.net/user/scsc3204) and [solved.ac](https://solved.ac/profile/scsc3204)
