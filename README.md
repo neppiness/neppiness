@@ -5,14 +5,19 @@
 <br>
 
 ## Works (sorted newest to oldest)
+### [Spring server clone coding (03.20.2023 ~ 04.08.2023.)](https://github.com/neppiness/hello)
+- Clone coding based on "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술"
+- h2 database engine applied
+- Studied the fundamental knowledge of Spring Boot framework
+
 ### [Dwitter; server clone coding project (03.18.22. ~ 05.31.22.)](https://github.com/neppiness/Dwitter_server)
 - Imitation project of Twitter, back-end project
-- Build server based on node.js and express
-- Study the request-response protocols both server and client
+- Built server based on node.js and express
+- Studied the request-response protocols both server and client
 
 ### [Portfolio page clone coding (02.23.22. ~ 03.17.22.)](https://github.com/neppiness/Portfolio)
 - Front-end project based on HTML, CSS, and JavaScript
-- Create portfolio page and publish it through github
+- Created portfolio page and publish it through github
 
 ### Maintenance of architectural eng. program (2019 ~ 2021)
 - Program to calculate the ult. capacity of a composite girder
