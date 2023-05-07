@@ -5,7 +5,7 @@
 <br>
 
 ## Works (sorted newest to oldest)
-### [Spring server clone coding (03.20.2023 ~ 04.08.2023.)](https://github.com/neppiness/hello)
+### Spring server clone coding (03.20.2023 ~ 04.08.2023.)
 - Clone coding based on the Inflearn course, "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술"
 - h2 database engine applied
 - Studied the fundamental knowledge of Spring Boot framework
