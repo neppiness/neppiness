@@ -5,10 +5,14 @@
 <br>
 
 ## Works (sorted newest to oldest)
+### [Toy project: typer-bible (05.06.2023. ~ ongoing)](https://github.com/neppiness/typer-bible)
+- Typer project No. 1: bible typing web service based on spring-java
+- Thymeleaf is applied to utilize template view
+
 ### Spring server clone coding (03.20.2023 ~ 04.08.2023.)
 - Clone coding based on the Inflearn course, "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술"
 - h2 database engine applied
-- Studied the fundamental knowledge of Spring Boot framework
+- Studied fundamental knowledge of Spring Boot framework
 
 ### [Dwitter; server clone coding project (03.18.22. ~ 05.31.22.)](https://github.com/neppiness/Dwitter_server)
 - Imitation project of Twitter, back-end project
@@ -45,11 +49,8 @@
 
 ## Personal interests
 ### [Problem solving](https://github.com/neppiness/TIL/tree/main/Problem%20Solving)
-- Based on C++ with STL / Solved 700+ problems
+- Based on C++ with STL / Solved 800+ problems
 - Studied [BaaaaaaaarkingDog's Practical Algorithm Lecture](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) (07.02.22. ~ 10.02.22.)
-
-### Open-source project: Open Broadcaster Software (OBS)
-- I love to use this program, so I'm going to contribute this proj. after I get my skills improved.
 
 <br>
 
