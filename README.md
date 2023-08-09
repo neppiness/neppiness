@@ -23,11 +23,6 @@
 - Front-end project based on HTML, CSS, and JavaScript
 - Created portfolio page and publish it through github
 
-### Maintenance of architectural eng. program (2019 ~ 2021)
-- Program to calculate the ult. capacity of a composite girder
-- Maintenance of calculation functions of program based on Python
-- Design additional function to calculate a special structural member
-
 <br>
 
 ## Stacks I've studied
