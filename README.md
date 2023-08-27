@@ -44,7 +44,7 @@
 
 ## Personal interests
 ### [Problem solving](https://github.com/neppiness/TIL/tree/main/Problem%20Solving)
-- Based on C++ with STL / Solved 950+ problems
+- Based on C++ with STL / Solved 1000+ problems
 - Studied [BaaaaaaaarkingDog's Practical Algorithm Lecture](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) (07.02.22. ~ 10.02.22.)
 
 <br>
@@ -52,4 +52,5 @@
 ## For more information
 - I note 'Today I Learned (TIL)' in [here](https://github.com/neppiness/TIL)
 - You can also check my portfolio [here](https://neppiness.github.io/Portfolio/)
-- Links for my profiles: [Baekjoon Online Judge](https://www.acmicpc.net/user/scsc3204) and [solved.ac](https://solved.ac/profile/scsc3204)
+- I have blog to share my experiences and to look back on in [here](https://neppiness.github.io/)
+- Links for my PS profiles: [Baekjoon Online Judge](https://www.acmicpc.net/user/scsc3204) and [solved.ac](https://solved.ac/profile/scsc3204)
