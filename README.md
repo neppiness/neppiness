@@ -5,11 +5,11 @@
 <br>
 
 ## Works (sorted newest to oldest)
-### [Toy project: typer-bible (05.06.2023. ~ ongoing)](https://github.com/neppiness/typer-bible)
+### [Toy project: typer-bible (05.06.23. ~ ongoing)](https://github.com/neppiness/typer-bible)
 - Typer project No. 1: bible typing web service based on spring-java
 - Thymeleaf is applied to utilize template view
 
-### Spring server clone coding (03.20.2023 ~ 04.08.2023.)
+### Spring server clone coding (03.20.23. ~ 04.08.23.)
 - Clone coding based on the Inflearn course, "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술"
 - h2 database engine applied
 - Studied fundamental knowledge of Spring Boot framework
