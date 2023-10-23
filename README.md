@@ -34,7 +34,8 @@
 ### Main stacks
 ![C++](https://img.shields.io/badge/-c++-03589b?logo=c%2B%2B&style=flat-square)
 ![GIT](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
-![JAVA](https://img.shields.io/badge/-Java-007396?&logo=Java&style=flat-square)
+![JAVA](https://img.shields.io/badge/-Java-007396?style=flat-square)
+![SPRING](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=flat-square&logoColor=ffffff)
 
 ### Sub-stacks
 ![PYTHON](https://img.shields.io/badge/-python-376f9e?style=flat-square&logo=python&logoColor=ffffff)
