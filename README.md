@@ -9,6 +9,11 @@
 - Typer project No. 1: bible typing web service based on spring-java
 - Thymeleaf is applied to utilize template view
 
+### [원티드 프리온보딩 인턴십 선발과제 (10.09.23. ~ 10.10.18.)](https://github.com/neppiness/wanted-pre-onboarding-backend)
+- Assignment of Wanted Pre-onboarding Internship Program
+- Design a web application server that meets given functional requirements
+- Build from scratch using Spring framework, MySQL and JPA
+
 ### Spring server clone coding (03.20.23. ~ 04.08.23.)
 - Clone coding based on the Inflearn course, "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술"
 - h2 database engine applied
