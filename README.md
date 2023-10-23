@@ -9,7 +9,7 @@
 - Typer project No. 1: bible typing web service based on spring-java
 - Thymeleaf is applied to utilize template view
 
-### [원티드 프리온보딩 인턴십 선발과제 (10.09.23. ~ 10.10.18.)](https://github.com/neppiness/wanted-pre-onboarding-backend)
+### [원티드 프리온보딩 인턴십 선발과제 (10.09.23. ~ 10.18.23.)](https://github.com/neppiness/wanted-pre-onboarding-backend)
 - Assignment of Wanted Pre-onboarding Internship Program
 - Design a web application server that meets given functional requirements
 - Build from scratch using Spring framework, MySQL and JPA
