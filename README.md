@@ -4,10 +4,15 @@
 
 <br>
 
+### [맛있냠-맛집 검색 서비스 서버 구현 (11.01.23. ~ 12.24.23.)](https://github.com/neppiness/matitnyam)
+- Service to search restaurant data from OpenAPI and to leave reviews for the restaurants
+- The server is designed and implemented in Java
+- Build from scratch using SpringBoot, h2 database engine and JPA
+
 ### [원티드 프리온보딩 인턴십 선발과제 (10.09.23. ~ 10.18.23.)](https://github.com/neppiness/wanted-pre-onboarding-backend)
 - Assignment of Wanted Pre-onboarding Internship Program
 - Design a web application server that meets given functional requirements
-- Build from scratch using Spring framework, MySQL and JPA
+- Build from scratch using SpringBoot, MySQL and JPA
 
 ### Spring server clone coding (03.20.23. ~ 04.08.23.)
 - Clone coding based on the Inflearn course, "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술"
