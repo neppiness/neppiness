@@ -4,12 +4,12 @@
 
 <br>
 
-### [맛있냠-맛집 검색 서비스 (11.01.23. ~ 12.24.23.)](https://github.com/neppiness/matitnyam)
+### [맛있냠-맛집 검색 서비스](https://github.com/neppiness/matitnyam)
 - Service to search restaurant data from OpenAPI and to leave reviews for the restaurants
 - The server is designed and implemented in Java
 - Build from scratch using SpringBoot, h2 database engine and JPA
 
-### [원티드 프리온보딩 인턴십 선발과제 (10.09.23. ~ 10.18.23.)](https://github.com/neppiness/wanted-pre-onboarding-backend)
+### [높임(nopim) | 채용 플랫폼 서비스](https://github.com/neppiness/nopim)
 - Assignment of Wanted Pre-onboarding Internship Program
 - Design a web application server that meets given functional requirements
 - Build from scratch using SpringBoot, MySQL and JPA
