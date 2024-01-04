@@ -4,7 +4,7 @@
 
 <br>
 
-### [맛있냠; 맛집 검색 서비스](https://github.com/neppiness/matitnyam)
+### [맛있냠(matitnyam); 맛집 검색 서비스](https://github.com/neppiness/matitnyam)
 - Service to search restaurant data from OpenAPI and to leave reviews for the restaurants
 - The server is designed and implemented in Java
 - Build from scratch using SpringBoot, h2 database engine and JPA
