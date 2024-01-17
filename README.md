@@ -28,9 +28,9 @@
 
 ## Stacks I've studied
 ### Main stacks
-![C++](https://img.shields.io/badge/-c++-03589b?logo=c%2B%2B&style=flat-square)
 ![JAVA](https://img.shields.io/badge/-Java-007396?style=flat-square)
 ![SPRING](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=flat-square&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-c++-03589b?logo=c%2B%2B&style=flat-square)
 
 ### Sub-stacks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1C)
