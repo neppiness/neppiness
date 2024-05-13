@@ -52,4 +52,4 @@
 - Links for my PS profiles: [Baekjoon Online Judge](https://www.acmicpc.net/user/scsc3204) and [solved.ac](https://solved.ac/profile/scsc3204)
 - I've practiced English typing in [TypeRacer](https://data.typeracer.com/pit/profile?user=neppiness) since 08.26.2023.
 
-  <a href="https://data.typeracer.com/pit/profile?user=neppiness&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=neppiness" border="0" alt="TypeRacer.com scorecard for user neppiness"/></a>
+  <a href="https://data.typeracer.com/pit/profile?user=laptop_practice&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=laptop_practice" border="0" alt="TypeRacer.com scorecard for user laptop_practice"/></a>
